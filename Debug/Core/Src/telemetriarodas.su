@@ -1,0 +1,5 @@
+telemetriarodas.c:17:6:setup	184	static
+telemetriarodas.c:68:6:HAL_UART_RxCpltCallback	16	static
+telemetriarodas.c:75:6:HAL_TIM_IC_CaptureCallback	16	static
+telemetriarodas.c:115:6:sendCANMessage	16	static
+telemetriarodas.c:128:6:loop	416	static
